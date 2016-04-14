@@ -5,7 +5,7 @@
 
 
 
-```
+```ruby
 class Utopia
   def initialize(name)
     @name = name
